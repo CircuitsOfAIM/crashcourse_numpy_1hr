@@ -1,6 +1,12 @@
-# NumPy
+# NumPy 1-hour crashcourse 
 
-Jupyter Notebook &amp; Data Associated with my Tutorial video on the Python NumPy Library
+### Topics discussed 
 
-Video Link:
-https://youtu.be/GB9ByFAIAH4
+* Numpy implementation versus python list
+* initializing np.array
+* indexing np.array
+* math on np.array
+* linalg (linear algebra) on np.array
+* statistics on np.array
+*boolean operations (masking) and advanced indexing ( via list for example) 
+
